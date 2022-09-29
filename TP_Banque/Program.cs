@@ -6,7 +6,7 @@ namespace TP_Banque
     {
         static void Main(string[] args)
         {
-            Compte c1 = new Compte("Toto", 12345, 1000, -500);
+            Compte c1 = new Compte("Toto", 12345, 1000, -560);
             Compte c2 = new Compte("titi", 45657, 2000, -1000);
             c1.crediter(2000);
             c1.debiter(3600);
