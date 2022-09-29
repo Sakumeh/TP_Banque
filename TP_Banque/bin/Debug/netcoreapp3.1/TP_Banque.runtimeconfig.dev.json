@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/samehelashry/.dotnet/store/|arch|/|tfm|",
+      "/Users/samehelashry/.nuget/packages"
+    ]
+  }
+}

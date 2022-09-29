@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/samehelashry/Projects/TP_Banque/Test/Test.csproj": {}
+  },
+  "projects": {
+    "/Users/samehelashry/Projects/TP_Banque/Test/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samehelashry/Projects/TP_Banque/Test/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/Users/samehelashry/Projects/TP_Banque/Test/Test.csproj",
+        "packagesPath": "/Users/samehelashry/.nuget/packages/",
+        "outputPath": "/Users/samehelashry/Projects/TP_Banque/Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samehelashry/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/samehelashry/Projects/TP_Banque/TP_Banque/TP_Banque.csproj": {
+                "projectPath": "/Users/samehelashry/Projects/TP_Banque/TP_Banque/TP_Banque.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/samehelashry/Projects/TP_Banque/TP_Banque/TP_Banque.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samehelashry/Projects/TP_Banque/TP_Banque/TP_Banque.csproj",
+        "projectName": "TP_Banque",
+        "projectPath": "/Users/samehelashry/Projects/TP_Banque/TP_Banque/TP_Banque.csproj",
+        "packagesPath": "/Users/samehelashry/.nuget/packages/",
+        "outputPath": "/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samehelashry/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

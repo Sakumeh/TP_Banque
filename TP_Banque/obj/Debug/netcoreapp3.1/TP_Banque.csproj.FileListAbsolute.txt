@@ -1,0 +1,13 @@
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/bin/Debug/netcoreapp3.1/TP_Banque.deps.json
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/bin/Debug/netcoreapp3.1/TP_Banque.runtimeconfig.json
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/bin/Debug/netcoreapp3.1/TP_Banque.runtimeconfig.dev.json
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/bin/Debug/netcoreapp3.1/TP_Banque.dll
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/bin/Debug/netcoreapp3.1/TP_Banque.pdb
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/Debug/netcoreapp3.1/TP_Banque.csproj.AssemblyReference.cache
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/Debug/netcoreapp3.1/TP_Banque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/Debug/netcoreapp3.1/TP_Banque.AssemblyInfoInputs.cache
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/Debug/netcoreapp3.1/TP_Banque.AssemblyInfo.cs
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/Debug/netcoreapp3.1/TP_Banque.csproj.CoreCompileInputs.cache
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/Debug/netcoreapp3.1/TP_Banque.dll
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/Debug/netcoreapp3.1/TP_Banque.pdb
+/Users/samehelashry/Projects/TP_Banque/TP_Banque/obj/Debug/netcoreapp3.1/TP_Banque.genruntimeconfig.cache
